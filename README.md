@@ -1,4 +1,4 @@
-# IAM-Security-Audit
+IAM-Security-Audit
 Simulated Identity and Access Management security audit assessing IAM controls, risks, and remediation recommendations.
 
 Overview
@@ -31,3 +31,22 @@ The objective of the assessment is to evaluate the design and operating effectiv
 Disclaimer
 
 NovaTech Solutions is a fictional organisation created solely for this cybersecurity portfolio project. All systems, users, evidence, observations, and findings used in this assessment are simulated.
+
+
+Audit Scope
+
+The assessment focuses on key Identity and Access Management controls across NovaTech Solutions' corporate environment.
+
+The audit covers:
+
+Multi-Factor Authentication (MFA)
+User account provisioning and deprovisioning
+Joiner-Mover-Leaver (JML) processes
+Contractor access management
+Periodic user access reviews
+Privileged access management
+Service account management
+Privileged activity logging
+
+Technical vulnerability testing, penetration testing, network security, application security, and other security domains outside Identity and Access Management are EXCLUDED from the scope of this assessment.
+
