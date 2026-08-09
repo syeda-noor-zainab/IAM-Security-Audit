@@ -28,10 +28,6 @@ Audit Objective
 
 The objective of the assessment is to evaluate the design and operating effectiveness of key IAM controls and identify weaknesses that could result in unauthorised or inappropriate access to NovaTech's systems and information.
 
-Disclaimer
-
-NovaTech Solutions is a fictional organisation created solely for this cybersecurity portfolio project. All systems, users, evidence, observations, and findings used in this assessment are simulated.
-
 
 Audit Scope
 
@@ -49,4 +45,9 @@ Service account management
 Privileged activity logging
 
 Technical vulnerability testing, penetration testing, network security, application security, and other security domains outside Identity and Access Management are EXCLUDED from the scope of this assessment.
+
+
+Disclaimer
+
+NovaTech Solutions is a fictional organisation created solely for this cybersecurity portfolio project. All systems, users, evidence, observations, and findings used in this assessment are simulated.
 
