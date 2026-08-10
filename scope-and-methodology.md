@@ -1,10 +1,10 @@
-Audit Scope and Methodology
+### Audit Scope and Methodology
 
-Audit Objective
+## Audit Objective
 
 The objective of this assessment is to evaluate the design and operating effectiveness of Identity and Access Management (IAM) controls within NovaTech Solutions and identify control weaknesses that could increase the risk of unauthorised or inappropriate access.
 
-Scope
+## Scope
 
 The assessment covers the following IAM control areas:
 Multi-Factor Authentication (MFA)
@@ -19,7 +19,7 @@ Privileged activity logging
 
 Technical vulnerability testing, penetration testing, network security and application security are outside the scope of this assessment.
 
-Methodology
+## Methodology
 
 The audit was performed using a simulated evidence-based control assessment. Evidence was reviewed to determine whether IAM controls were appropriately designed and whether they were operating as intended.
 
