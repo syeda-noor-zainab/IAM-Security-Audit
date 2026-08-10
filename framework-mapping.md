@@ -1,4 +1,4 @@
- IAM Audit Framework Mapping
+## IAM Audit Framework Mapping
 
 The control weaknesses identified during the simulated IAM audit were mapped to relevant controls and outcomes from:
 
@@ -7,7 +7,7 @@ The control weaknesses identified during the simulated IAM audit were mapped to 
 
 The purpose of this mapping is to demonstrate how the identified IAM risks relate to recognised cybersecurity control frameworks.
 
-NIST Cybersecurity Framework (CSF) 2.0
+## NIST Cybersecurity Framework (CSF) 2.0
 
 F-01 – Incomplete MFA Enforcement 
 Category - PR.AA – Identity Management, Authentication, and Access Control
@@ -40,7 +40,7 @@ Service identities lacked documented ownership and appropriate governance, while
 
 
 
-ISO/IEC 27001:2022 Annex A
+## ISO/IEC 27001:2022 Annex A
 
 F-01 – Incomplete MFA Enforcement 
 Category- Technological Controls
