@@ -13,12 +13,11 @@ NovaTech Solutions is a fictional UAE-based technology services company with app
 
 Its technology environment includes:
 
-Microsoft 365
-Microsoft Entra ID
-AWS cloud services
-Windows 11 endpoints
-SaaS applications
-VPN-based remote administrative access
+- Microsoft 365
+- Microsoft Entra ID
+- AWS cloud services
+- Windows 11 endpoints
+- VPN-based remote administrative access
 
 The organisation processes customer information, employee records, financial information, contracts, and internal business data.
 
@@ -28,8 +27,37 @@ Following rapid organisational growth, management initiated an internal review t
 
 The objective of the assessment is to evaluate the design and operating effectiveness of key IAM controls and identify weaknesses that could result in unauthorised or inappropriate access to NovaTech's systems and information.
 
+## Framework Alignment
 
+Findings were mapped to relevant outcomes and controls from:
 
+- NIST Cybersecurity Framework (CSF) 2.0
+- ISO/IEC 27001:2022 Annex A
+
+See [Framework Mapping](framework-mapping.md) for the detailed mapping and rationale.
+
+## Project Deliverables
+
+- [Executive Summary](IAM-Audit-Executive-Summary.pdf)
+- [Evidence Register](IAM-Audit-Evidence-Register.docx)
+- [Findings Register](IAM-Audit-Findings-Register.docx)
+- [Framework Mapping](framework-mapping.md)
+- [Scope and Methodology](scope-and-methodology.md)
+
+## Skills Demonstrated
+
+- Identity & Access Management (IAM)
+- GRC
+- IT Audit
+- Control Testing
+- Risk Assessment
+- NIST CSF 2.0
+- ISO/IEC 27001
+- Access Control
+- Privileged Access Management
+- Joiner-Mover-Leaver (JML)
+- Audit Reporting
+  
 ## Disclaimer
 
 NovaTech Solutions is a fictional organisation created solely for this cybersecurity portfolio project. All systems, users, evidence, observations, and findings used in this assessment are simulated.
