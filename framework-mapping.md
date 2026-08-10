@@ -72,5 +72,7 @@ Service accounts lacked documented ownership and identity governance, while seve
 
 
 
+Framework mappings were developed using the NIST Cybersecurity Framework 
+(CSF) 2.0 and ISO/IEC 27001:2022 supporting material listed in the main 
 
 
