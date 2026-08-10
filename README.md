@@ -41,6 +41,4 @@ NovaTech Solutions is a fictional organisation created solely for this cybersecu
   Edwards, J. (2025). A comprehensive guide to the NIST cybersecurity framework 2.0 : strategies, implementation, and best practice (1st ed.). Wiley.
 
 
-  Nair, A., & R., G. M. (2023). Mastering Information Security Compliance Management : A Comprehensive Handbook on ISO/IEC 27001:2022 Compliance. (1st ed.). Packt Publishing, Limited. https://doi.org/10.0000/9781803243160
-
-
+  Watkins, S. (2022). Iso/iec 27001 : An Introduction to Information Security and the ISMS Standard. (1st ed.). IT Governance Ltd.
