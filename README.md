@@ -35,7 +35,7 @@ The objective of the assessment is to evaluate the design and operating effectiv
 NovaTech Solutions is a fictional organisation created solely for this cybersecurity portfolio project. All systems, users, evidence, observations, and findings used in this assessment are simulated.
 
 
-## References
+## Sources
 
 
   Edwards, J. (2025). A comprehensive guide to the NIST cybersecurity framework 2.0 : strategies, implementation, and best practice (1st ed.). Wiley.
