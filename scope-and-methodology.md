@@ -1,4 +1,4 @@
-### Audit Scope and Methodology
+## Audit Scope and Methodology
 
 ## Audit Objective
 
